@@ -1,2 +1,3 @@
 # hello-world
-First Git test
+Well first timer here
+My first commit
